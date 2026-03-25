@@ -6,7 +6,7 @@ Our goal is to build an "AI of Things"—making AI transparent and seamlessly in
 
 ## **The Challenge**
 
-We are giving you **7 days** to build something that blows us away.
+We are giving you **7 days** to build something that blows us away. This is a deadline, not an expectation of effort—we respect your time and don't expect you to spend all 7 days on this. Focus on quality over quantity.
 
 Your challenge is to build a full-stack prototype that eliminates friction by creating a missing interface or bridging a missing data connection using AI. We want to see how you think about architecture, data flow, and user experience when given an open-ended problem.
 
