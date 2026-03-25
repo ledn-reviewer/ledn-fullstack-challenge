@@ -12,7 +12,7 @@ Your challenge is to build a full-stack prototype that eliminates friction by cr
 
 We have outlined a few common industry friction points for you. You may choose **ONE** of the following hypothetical scenarios to solve, or invent your own workflow that strictly aligns with our philosophy.
 
-See FRICTIONS.md for a complete list.
+See [FRICTIONS.md](./FRICTIONS.md) for a complete list.
 
 ## **Technical Requirements**
 
