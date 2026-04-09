@@ -38,7 +38,7 @@ Regardless of the stack, we expect to see:
 
 1. **Source Code:** Please create a **private** GitHub repository for your project. Keeping the repository private helps us ensure the integrity of this challenge for future candidates. When you are ready to submit, invite the GitHub user @ledn-reviewer as a collaborator. *(Please do not send zip files or open public repositories).*
 2. **README.md:** Include clear instructions in your repository on how to run your application locally (make sure it runs). Please also include a brief explanation of your architecture and technical decisions. Don't forget to include the friction you are solving for and how your solution brilliantly solves the problem.
-3. **Loom Video (Optional but Highly Recommended):** A 3-5 minute video demonstrating your solution, explaining the problem you chose, your architectural decisions, and how you addressed the "interface and data" friction.
+3. **Loom Video:** A 3-5 minute video demonstrating your solution, explaining the problem you chose, your architectural decisions, and how you addressed the "interface and data" friction.
 
 ## **Evaluation Criteria**
 
