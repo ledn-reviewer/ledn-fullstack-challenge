@@ -44,6 +44,7 @@ We will evaluate your submission based on:
 
 * **Systems Thinking:** How well did you model the problem domain? Did you choose the right architecture and form factor for the friction described?
 * **Resilience & Observability:** Does your system behave predictably under failure? Can an operator understand what the system is doing—and why?
+* **AI Pragmatism:** Did you use AI effectively to solve the problem, or is it just a gimmick? Did you handle edge cases?
 * **Conceptual Understanding & Trade-offs:** How well do you understand the concepts and tools you are using? Are you actively aware of the architectural trade-offs, or are you just "asleep at the wheel" relying on defaults?
 * **Execution & Completeness:** Does the prototype work end-to-end?
 * **Code Quality:** Is the codebase structured like a senior engineer wrote it?
