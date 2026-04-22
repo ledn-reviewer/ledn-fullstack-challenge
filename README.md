@@ -29,7 +29,9 @@ Regardless of the stack, we expect to see:
    * A frontend interface (e.g. Web UI, operational dashboard, or CLI tool) that makes the system's behavior visible and actionable.
 2. **Systems Thinking in Practice:**
    * Show us how your system handles failure, state, and data consistency. Demonstrate that you've thought through the edge cases, not just the happy path.
-3. **Production-Ready Quality:**
+3. **The "Data Producer" Mindset:**
+   * Show us how your system structures and exposes data. Demonstrate how your architecture ensures the data is reliable, consistent, and accessible to the parts of the system that need it.
+4. **Production-Ready Quality:**
    * Show us your standard for shipping to production. We intentionally aren't providing a checklist because we want to see your judgment on how to balance speed, reliability, and code quality.
 
 ## **Deliverables**
